@@ -1,1 +1,0 @@
-# kattu-web
